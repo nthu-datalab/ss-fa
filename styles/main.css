@@ -5,10 +5,10 @@ html, body {
 
 #banner {
     height: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    /*-webkit-background-size: cover;
+    -moz-background-size: cover;*/
     background-size: cover;
-    -o-background-size: cover;
+    /*-o-background-size: cover;*/
     background-position: center;
     background-image: url("../images/banner.jpg");
     background-attachment: fixed;

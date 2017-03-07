@@ -5,6 +5,7 @@ This is a sample landing page for pitching a project idea called **FriendlyAlarm
 - [Font Awesome](http://fontawesome.io/) for the icons;
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups/) for mocking up the UI of FriendlyAlarm;
 - [Google Form](https://www.google.com/forms/about/) for collecting user feedback.
+- [Google Analytics](https://www.google.com/analytics/) for page visit tracking.
 
 Since the page is static (i.e., without any server-side code), you can host it on [GitHub Pages](https://pages.github.com/) for **free** and leverage the GitHub CDN to deliver the page to anywhere around the world **fast**.
 
